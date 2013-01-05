@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 width="426px" height="195px" viewBox="-1.767 -1.442 142 65" enable-background="new">
+<defs>
+	<g id="stripes">
+		<rect id="block" width="0.75px" height="4" />
+		<use xlink:href="#block" x="2.25" />
+		<use xlink:href="#block" x="4.5" />
+		<use xlink:href="#block" x="6.75" />
+		<use xlink:href="#block" x="9" />
+		<use xlink:href="#block" x="11.25" />
+		<use xlink:href="#block" x="13.5" />
+		<use xlink:href="#block" x="15.75" />
+		<use xlink:href="#block" x="18" />
+	</g>
+	<clipPath id="stripesClip">
+		<use xlink:href="#stripes" transform="translate(3.5 0) rotate(90)" />
+	</clipPath>
+	<symbol id="wedge">
+		<polygon points="3.355,0 2.128,13.523 1.677,13.523 1.277,13.523 0,0" />
+	</symbol>
+</defs>
+<g style="fill: none; stroke: #000000">
+	<polyline points="19.203,28.892 31.16,35.786 48.358,25.874 65.55,35.786 82.748,25.874 
+		99.939,35.786 117.138,25.873 128.995,32.71" />
+	<line x1="118.638" y1="26.737" x2="118.638" y2="12.375" />
+	<line x1="115.638" y1="26.737" x2="115.638" y2="12.376" />
+</g>
+<g style="fill: #000000; stroke: none">
+	<use xlink:href="#wedge" transform="translate(46.681 12.351)" />
+	<use xlink:href="#wedge" transform="translate(81.07 12.352)" clip-path="url(#stripesClip)" />
+	<use xlink:href="#wedge" transform="translate(63.875 49.313) scale(1 -1)" clip-path="url(#stripesClip)" />
+	<use xlink:href="#wedge" transform="translate(98.265 49.275) scale(1 -1)" clip-path="url(#stripesClip)" />
+	
+	<text text-anchor="middle" x="134.329" y="40.136" font-family="DejaVu Sans" font-size="11.5">H</text>
+	<text text-anchor="middle" x="117.138" y="10.374" font-family="DejaVu Sans" font-size="11.5">O</text>
+	<text text-anchor="start" x="95.14" y="59.986" font-family="DejaVu Sans" font-size="11.5">OH</text>
+	<text text-anchor="start" x="60.75" y="59.986" font-family="DejaVu Sans" font-size="11.5">OH</text>
+	<text text-anchor="start" x="77.948" y="10.374" font-family="DejaVu Sans" font-size="11.5">OH</text>
+	<text text-anchor="start" x="43.559" y="10.374" font-family="DejaVu Sans" font-size="11.5">OH</text>
+	<text text-anchor="end" x="18.469" y="30.224" font-family="DejaVu Sans" font-size="11.5">HO</text>
+</g>
+</svg>
