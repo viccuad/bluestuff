@@ -14,6 +14,9 @@ It was made as a birthday present for a friend, who is a chemist and also loves 
 At the end of the recipe there are some keys provided, just in case.
 
 
+Tip: if you go to the .pdf and click on "View raw", it gets downloaded 
+
+
 ## references:
 1. http://www.thekitchn.com/pantry-staples-diy-cane-sugar-131934
 2. http://www.sugarhero.com/2012/07/blue-crystal-meth-rock-candy-for-breaking-bad/
