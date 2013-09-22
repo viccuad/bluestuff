@@ -1,5 +1,7 @@
 # bluestuff
 
+![meth](https://github.com/viccuad/bluestuff/raw/master/images/meth.jpg)
+
 yo, this is a recipe for blue candy, like Breaking Bad's meth. (if you haven't seen Breaking Bad series, go and see it, bitch!)
 
 the trick is that the recipe is made with formulae (e.g. H-(C=O)-(CHOH)5-H instead of glucose, that "equals" corn syrup), and the chemical process produced to get "rock candy", to make sugar crystalize, is roughly explained, as Jesse would do (yo, science, bitch! ^^).
